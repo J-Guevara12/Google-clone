@@ -1,16 +1,4 @@
-# what to do?
+# Google home page clone
 
-Just execute the following
+Do you want to see my result? click [Here] (https://j-guevara12.github.io/Google-clone/).
 
-```
-npm init
-npm install --save-dev gulp gulp-sass sass browser-sync
-```
-## finally
-run 
-
-```
-gulp watch
-```
-
-inside your scss folder!
